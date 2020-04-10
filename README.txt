@@ -1,0 +1,1 @@
+Bridge Pattern 373README for bridge pattern project for COMP-373. Run pictureFrameClient to get output in console. Eclipse IDE was used. This program solves the problem of producing picture frames for a manufacturer.
